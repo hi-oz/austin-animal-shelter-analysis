@@ -8,7 +8,7 @@
 **Author:** Hilal Ozkan  
 **Methodology:** PACE Framework (Plan, Analyze, Construct, Execute)
 
-This project investigates a highly actionable operational question for animal shelters: **Does assigning a name to an animal upon arrival significantly reduce its wait time for adoption?** By analyzing a real-world dataset from the Austin Animal Center (June 2026 Snapshot), the analysis proves that **named animals are adopted significantly faster (Median: 258 days) than unnamed animals (Median: 301 days)**. The project also explores the "Time Bias" phenomenon in shelter operations.
+This project investigates a highly actionable operational question for animal shelters: **Does assigning a name to an animal upon arrival significantly reduce its wait time for adoption?** By analyzing a real-world dataset from the Austin Animal Center (June 2026 Snapshot), the analysis proves that **named animals are adopted significantly faster (Median: 253 days) than unnamed animals (Median: 299 days)**. The project also explores the "Time Bias" phenomenon in shelter operations.
 
 📂 **[Click here to view the full English Data Analysis Notebook](/EN/ab_testing_shelter_naming_impact.ipynb)**
 
@@ -19,6 +19,6 @@ This project investigates a highly actionable operational question for animal sh
 **Yazar:** Hilal  
 **Metodoloji:** PACE Çerçevesi (Planla, Analiz Et, İnşa Et, Uygula)
 
-Bu proje, hayvan barınakları için operasyonel ve eyleme dönüştürülebilir şu soruyu araştırmaktadır: **Bir hayvana barınağa geldiği anda isim vermek, onun sahiplenilme süresini kısaltır mı?** Austin Animal Center'ın gerçek dünya verileri (Haziran 2026 verisi) kullanılarak yapılan analiz, **isim verilen hayvanların (Medyan: 258 gün), isim verilmeyenlere (Medyan: 301 gün) kıyasla çok daha hızlı sahiplenildiğini** kanıtlamaktadır. Proje aynı zamanda barınak operasyonlarındaki "Zaman Yanılgısı" (Time Bias) olgusunu da inceler.
+Bu proje, hayvan barınakları için operasyonel ve eyleme dönüştürülebilir şu soruyu araştırmaktadır: **Bir hayvana barınağa geldiği anda isim vermek, onun sahiplenilme süresini kısaltır mı?** Austin Animal Center'ın gerçek dünya verileri (Haziran 2026 verisi) kullanılarak yapılan analiz, **isim verilen hayvanların (Medyan: 253 gün), isim verilmeyenlere (Medyan: 299 gün) kıyasla çok daha hızlı sahiplenildiğini** kanıtlamaktadır. Proje aynı zamanda barınak operasyonlarındaki "Zaman Yanılgısı" (Time Bias) olgusunu da inceler.
 
 📂 **[Tam kapsamlı Türkçe Veri Analizi dosyasını (Notebook) incelemek için tıklayın](/TR/ab_testi_barinak_isimlendirme.ipynb)**
