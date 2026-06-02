@@ -5,7 +5,7 @@
 
 <a id="en-version"></a>
 ## 🇬🇧 English Version
-**Author:** Hilal  
+**Author:** Hilal Ozkan  
 **Methodology:** PACE Framework (Plan, Analyze, Construct, Execute)
 
 This project investigates a highly actionable operational question for animal shelters: **Does assigning a name to an animal upon arrival significantly reduce its wait time for adoption?** By analyzing a real-world dataset from the Austin Animal Center (June 2026 Snapshot), the analysis proves that **named animals are adopted significantly faster (Median: 258 days) than unnamed animals (Median: 301 days)**. The project also explores the "Time Bias" phenomenon in shelter operations.
