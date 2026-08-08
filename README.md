@@ -21,4 +21,4 @@ This project investigates a highly actionable operational question for animal sh
 
 Bu proje, hayvan barınakları için operasyonel ve eyleme dönüştürülebilir şu soruyu araştırmaktadır: **Bir hayvana barınağa geldiği anda isim vermek, onun sahiplenilme süresini kısaltır mı?** Austin Animal Center'ın gerçek dünya verileri (Haziran 2026 verisi) kullanılarak yapılan analiz, **isim verilen hayvanların (Medyan: 253 gün), isim verilmeyenlere (Medyan: 299 gün) kıyasla çok daha hızlı sahiplenildiğini** kanıtlamaktadır. Proje aynı zamanda barınak operasyonlarındaki "Zaman Yanılgısı" (Time Bias) olgusunu da inceler.
 
-📂 **[Tam kapsamlı Türkçe Veri Analizi dosyasını (Notebook) incelemek için tıklayın](/TR/ab_testi_barinaklarda_isimlendirme_etkisi.ipynb)**
+📂 **[Tam kapsamlı Türkçe veri analizi dosyasını incelemek için tıklayın](/TR/ab_testi_barinaklarda_isimlendirme_etkisi.ipynb)**
