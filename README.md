@@ -16,7 +16,7 @@ This project investigates a highly actionable operational question for animal sh
 
 <a id="tr-version"></a>
 ## 🇹🇷 Türkçe Versiyon
-**Yazar:** Hilal  
+**Yazar:** Hilal Ozkan
 **Metodoloji:** PACE Çerçevesi (Planla, Analiz Et, İnşa Et, Uygula)
 
 Bu proje, hayvan barınakları için operasyonel ve eyleme dönüştürülebilir şu soruyu araştırmaktadır: **Bir hayvana barınağa geldiği anda isim vermek, onun sahiplenilme süresini kısaltır mı?** Austin Animal Center'ın gerçek dünya verileri (Haziran 2026 verisi) kullanılarak yapılan analiz, **isim verilen hayvanların (Medyan: 253 gün), isim verilmeyenlere (Medyan: 299 gün) kıyasla çok daha hızlı sahiplenildiğini** kanıtlamaktadır. Proje aynı zamanda barınak operasyonlarındaki "Zaman Yanılgısı" (Time Bias) olgusunu da inceler.
